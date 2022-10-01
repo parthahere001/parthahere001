@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **parthahere001@gmail.com**
 
-- ⚡ Fun fact **Want to learn a new tech stack every month**
+- ⚡ Fun fact **I Want to learn a new tech stack every month**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
