@@ -12,11 +12,10 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently building **Chat-Fred (WhatsApp Chatbot)**
+- 🔭 Currently building **LyricGlow (Lyrics on your AOD)**
 - 🌱 Exploring **Blockchain & AI Agents**
 - 👨‍💻 All projects → [GitHub](https://github.com/parthahere001)
 - 💬 Ask me about **Django, Backend Systems, Automation**
-- ⚡ Fun fact: *I try to learn a new tech stack every month*
 
 ---
 
