@@ -15,14 +15,14 @@
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.exodus.lyricglow"><img src="https://img.shields.io/badge/Play%20Store-5%2C000%2B%20installs-BF91F3?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=1A1B27" alt="LyricGlow on Google Play — 5,000+ installs" /></a>
   <img src="https://img.shields.io/badge/Paid%20ads-zero-38BDAE?style=for-the-badge&labelColor=1A1B27" alt="Zero paid ads" />
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Aparthahere001+is%3Amerged"><img src="https://img.shields.io/badge/Pull%20requests-17%20of%2020%20merged-BF91F3?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B27" alt="17 of 20 pull requests merged" /></a>
+  <a href="https://github.com/search?q=is%3Apr+author%3Aparthahere001+is%3Amerged&type=pullrequests"><img src="https://img.shields.io/badge/Pull%20requests-17%20of%2020%20merged-BF91F3?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B27" alt="17 of 20 pull requests merged" /></a>
 </p>
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B27,50:7F5AF0,100:38BDAE&height=3&section=header" alt="" />
 
-Android in Kotlin. Backends in Python and Rust. Agent systems that produce finished artifacts instead of demos.
+Android in Kotlin. PureScript on a checkout page millions of people pay through. Agent systems that produce finished artifacts instead of demos.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B27,50:7F5AF0,100:38BDAE&height=3&section=header" alt="" />
 
@@ -101,11 +101,11 @@ A topic goes in, an upload-ready 1080p video comes out — researched, scripted,
 
 ## Also at Juspay
 
-Mobile and payments infrastructure — the rider and driver apps for **Namma Yatri** (130M+ rides, 700K+ drivers, all publicly reported), written in **ReScript** and TypeScript over React Native with Kotlin and Swift natives. Plus a Rust service in the Hyper SDK and production Terraform behind [Airborne](https://github.com/juspay/airborne) and [Superposition](https://github.com/juspay/superposition).
+I build features on **[Payment Page](https://docs.juspay.in/hyper-checkout/web)** — Juspay's hosted checkout, used by thousands of merchants and reaching millions of people paying for things.
 
-Typed-functional mobile, Rust services, infrastructure as code. Most engineers pick one.
+It's written in **PureScript**. Strict purely-functional types, in production, on the checkout screen where a bug is somebody's money. Juspay open-sourced the framework underneath it as [purescript-presto](https://github.com/juspay/purescript-presto).
 
-<sub>Work repos are private. The platform's public core is at <a href="https://github.com/nammayatri/nammayatri">nammayatri/nammayatri</a> and isn't mine to claim; every figure is from public reporting.</sub>
+<sub>The repo is private, so there's nothing to link. PureScript, Payment Page and the scale figures are all from Juspay's public docs and marketing.</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B27,50:7F5AF0,100:38BDAE&height=3&section=header" alt="" />
 
@@ -126,16 +126,16 @@ Typed-functional mobile, Rust services, infrastructure as code. Most engineers p
 
 <div align="center">
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,react,typescript,dart,flutter,firebase&theme=dark" alt="Mobile" /></a>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,django,fastapi,rust,go,postgres,redis,docker&theme=dark" alt="Backend" /></a>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=terraform,aws,linux,git,githubactions,grafana&theme=dark" alt="Platform" /></a>
-
 <p>
+  <img src="https://img.shields.io/badge/PureScript-1A1B27?style=for-the-badge&logo=purescript&logoColor=BF91F3&labelColor=1A1B27" alt="PureScript" />
   <img src="https://img.shields.io/badge/Jetpack%20Compose-1A1B27?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4&labelColor=1A1B27" alt="Jetpack Compose" />
   <img src="https://img.shields.io/badge/Claude%20Code-1A1B27?style=for-the-badge&logo=claude&logoColor=D97757&labelColor=1A1B27" alt="Claude Code" />
 </p>
 
-<kbd>ReScript</kbd> <kbd>Coroutines</kbd> <kbd>Actix-web</kbd> <kbd>Solidity</kbd> <kbd>ffmpeg</kbd> <kbd>Prometheus</kbd>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,react,typescript,dart,flutter,firebase&theme=dark" alt="Mobile" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,django,fastapi,go,postgres,redis,docker,linux&theme=dark" alt="Backend" /></a>
+
+<kbd>Coroutines</kbd> <kbd>Solidity</kbd> <kbd>ffmpeg</kbd> <kbd>GitHub Actions</kbd>
 
 </div>
 
